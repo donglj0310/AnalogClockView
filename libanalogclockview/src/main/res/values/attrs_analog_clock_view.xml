@@ -1,0 +1,16 @@
+<resources>
+    <declare-styleable name="AnalogClockView">
+        <attr name="circleWidth" format="dimension" />
+        <attr name="hourPointWidth" format="dimension" />
+        <attr name="minutePointWidth" format="dimension" />
+        <attr name="hourPointLength" format="dimension" />
+        <attr name="minutePointLength" format="dimension" />
+        <attr name="textSize" format="dimension" />
+        <attr name="refreshTime" format="float" />
+        <attr name="density_second" format="float" />
+        <attr name="density_minute" format="float" />
+        <attr name="density_hour" format="float" />
+        <attr name="radius" format="float" />
+        <attr name="clockNum" format="string" />
+    </declare-styleable>
+</resources>
